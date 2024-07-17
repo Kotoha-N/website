@@ -1,11 +1,6 @@
 h1 {
- color: #fff;
- background-image: url("https://github.com/Kotoha-N/website/blob/master/picture-1.png?raw=true");
- background-repeat: no-repeat;
+ color: #000;
  font-family: "Georgia", serif;
  font-size: 5.0rem;
- text-align: center;
- margin: 2.5rem auto;
- padding: 1rem 2rem;
- max-width: 100%;
+ text-align: left;
 }
