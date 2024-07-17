@@ -1,11 +1,8 @@
-.header{
+h1{
+  font-size:1.2rem;
   height:200px
   background-image: url(https://github.com/Kotoha-N/website/blob/master/picture-1.png);
   background-size: cover;
-}
-
-h1{
-  font-size:1.2rem;
 }
 
 h2{
