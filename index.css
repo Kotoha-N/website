@@ -1,6 +1,7 @@
 div{
   height:200px
-  background-image:url(https://github.com/Kotoha-N/website/blob/master/picture-1.png);
+  background-image: url(https://github.com/Kotoha-N/website/blob/master/picture-1.png);
+  background-size: cover
 }
 
 h1{
