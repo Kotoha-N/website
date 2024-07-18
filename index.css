@@ -1,6 +1,10 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+
 h1 {
  color: #000;
- font-family: "Georgia", serif;
  font-size: 2.5rem;
  text-align: left;
 }
